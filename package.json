@@ -1,0 +1,14 @@
+{
+    "name": "learning-JavaScript",
+    "version": "1.0.0",
+    "description": "Examples of different javascript code patterns",
+    "main": "script.js",
+    "scripts": {
+        "start": "lite-server"
+    },
+    "author": "James McGuire",
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    }
+}
